@@ -1,0 +1,16 @@
+.tableTransaction {
+    margin: 0 auto;
+    width: 70%;
+    border-collapse: collapse;
+    margin-bottom: 40px;
+}
+
+.tableTransaction  * {
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.tableHead {
+    background-color: #272626;
+    color: #fff;
+}

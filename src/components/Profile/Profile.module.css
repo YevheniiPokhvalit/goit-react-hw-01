@@ -1,0 +1,37 @@
+.profileList {
+    height: 100%;
+    display: flex;
+    margin: 0;
+    padding:  0;
+    background-color: #a9a3a3;
+    border-bottom-left-radius:8px ;
+    border-bottom-right-radius:8px ;
+    border-top: 2px solid   #8d7f7f;
+
+}
+
+.profileListText {
+    display: flex;
+    padding: 20px 0;
+    flex-direction: column;
+    text-align: center;
+    width: calc(100%/3);
+    border-right: 2px solid #8d7f7f;
+
+}
+
+.profileAvatar {
+    background-color: #231f1f;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.userName {
+    fgont-size: 40px;
+    font-weight: 600;
+}
+
+.text {
+    margin: 0 0 2px;
+    color: #908d8d;
+}
